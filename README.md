@@ -1,4 +1,4 @@
-# pokemon
+# Pokémon
 Welcome to the "Pokémon Power Analysis: Unveiling Legends and Commoners" project! In this analysis, we delve deep into the world of Pokémon, exploring the intricate details of 721 Pokémon and their attributes. Through meticulous examination, we uncover the best and worst Pokémon across various categories such as Total, HP, Attack, Defense, Special Attack, Special Defense, and Speed. From Mega Mewtwo X reigning supreme with a Total score of 780 to unfortunate Sunkern at the bottom with a meager Total of 180, we leave no stone unturned in our quest for understanding Pokémon power dynamics.
 
 But our exploration doesn't stop there. We delve into the fascinating realm of legendary Pokémon, spotlighting iconic figures like Mega Rayquaza and Primal Kyogre. Visual analyses, including pie charts and pairplot analyses, provide deeper insights into legendary versus common Pokémon distribution and characteristics. Furthermore, we examine Pokémon releases by generation and type, uncovering intriguing patterns and correlations.
